@@ -1,0 +1,16 @@
+{
+  "name": "task_ingestion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ingestion_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^13.2.0",
+    "fs": "0.0.1-security",
+    "request": "^2.81.0"
+  }
+}
